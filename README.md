@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: 
+
 
 **Use your preferred IDE**
 
